@@ -14,7 +14,7 @@ const onAddCategory = (newCategory) => {
   // Devolvemos el JSX que se renderizará
   return (
   <>
-  <h1>ProyectoGifDenni</h1>
+  <h1>Proyecto Gif Ragde Escalante</h1>
     {/* // Renderizamos el componente AddCategory y le pasamos una función que se 
   activará cuando se agregue una nueva
     categoría */}
